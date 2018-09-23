@@ -7,7 +7,7 @@ see also [【2018年】Webpack4でVue.js単一ファイルコンポーネント�
 In this tutorial, I have described How To Setup Vue.js component bundled with webpack + Babel-loader. 
 Babel7 is out in August this year, If you are new to webpack 4 + vue component, then you'd better be careful to install Babel-loader new version.
 
-Here working configuration based on latet v. Babel-loader and vue-loader.
+Here working configuration based on latest v. Babel-loader and vue-loader.
 
 2018年8月以降のBabelのバージョンアップにより、vue単一ファイルコンポーネントの使い方が今までとは少し違います。ご注意ください。
 
