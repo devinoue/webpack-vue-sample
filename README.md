@@ -12,8 +12,8 @@ Here working configuration based on latet v. Babel-loader and vue-loader.
 2018年8月以降のBabelのバージョンアップにより、vue単一ファイルコンポーネントの使い方が今までとは少し違います。ご注意ください。
 
 ## Usage
-```
 git clone
+```
 npm install
 npm run start
 ```
